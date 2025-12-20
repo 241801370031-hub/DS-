@@ -1,5 +1,5 @@
 class StaticIntialization {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int[] numbers = {8, 6, 9, 5};
         String[] names = {"Sham", "Lucky", "Don"};
         
